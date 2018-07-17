@@ -40,7 +40,7 @@ main {
 	flex-direction: column;
 	min-height: 100vh;
 	justify-content: center;
-	padding: 200px 30px 100px;
+	padding: 300px 30px 100px;
 	text-align: center;
 }
 
@@ -75,6 +75,9 @@ main > .portfolio-title {
 @media (max-width: 480px) { 
 	.portfolio-item {
 		width: auto;
+	}
+	.main {
+		padding-top: 100px;
 	}
 }
 
