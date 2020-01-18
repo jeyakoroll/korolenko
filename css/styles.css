@@ -11,11 +11,11 @@ main {
 	color: #303F9F;
 }
 
-.my-icons a {
+.my-links a {
 	color: #303F9F;
 }
 
-.my-icons a svg path{
+.my-links a svg path{
 	fill: #303F9F;
 }
 
@@ -43,7 +43,7 @@ main {
   }
 }
 
-.my-icons i {
+.my-links i {
   font-size: 3em;
   margin-bottom: 20px;
 }
@@ -133,7 +133,7 @@ main > .tagline {
   font-weight: 100;
 }
 
-.my-icons i {
+.my-links i {
   padding: 10px;
 }
 
